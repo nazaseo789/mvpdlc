@@ -1,9 +1,11 @@
 ---
-const title = 'สมัครเว็บตรง ของดีไม่ผ่านเอเย่นต์ ที่นี่ฝากไม่มีขั้นต่ำมีค่ายสล็อตดัง pg ให้บริการ ';
-const description = '.';
-const seoDescription = 'ท่านนักพนันใดที่สนใจต้องการ สมัคเว็บตรงที่เพลิน มีโปรโมชั่นฟรีเครดิต ในเครือของufabet และ sbobet เป็นมิตรกับนักเล่นทุกคนต้องจัดที่เว็บเราเท่านั้น';
-const allPosts = await Astro.glob<MarkdownFrontmatter>('./posts/*.md');
-const sortedPosts = allPosts.sort((a, b) => new Date(b.frontmatter.pubDate).valueOf() - new Date(a.frontmatter.pubDate).valueOf());
+title: "เว็บไซต์แท่งบอล สมัครง่ายโคตร ! เมื่อลงทะเบียนออนไลน์ผ่านเว็บเรา"
+pubDate: "2023-01-08"
+slug: "websitetaangball"
+description: "ผู้เล่นสายfootballท่านใดมองหา เว็บไซต์แท่งบอล ตัวเทพๆประจำปี 2023ไม่มีค่าใช้จ่ายแรกเข้า สมัครฟรีบอลน้ำราคาแรงต้องที่นี่เลย มีโปรโมชั่นพร้อม"
+hero: "https://i.postimg.cc/c1jgdg1p/04.jpg"
+tags: ["go"]
+layout: "../../layouts/BlogPostLayout.astro"
 ---
 
 <html lang="TH">
