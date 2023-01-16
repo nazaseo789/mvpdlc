@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: https://mvpzero.netlify.app/sitemap.xml
+Sitemap: https://www.mvpdlc.com/sitemap.xml
