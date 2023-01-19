@@ -3,7 +3,7 @@ title: "สมัคร ufa191 ufa168 ทางเข้า มือถือ"
 pubDate: "2023-01-19"
 slug: "registertangball02"
 description: "สมัคร ufa191ufa168 ทางเข้า มือถือufa6811ufa2499ufa houseufabet cafeufabetyufapok888 automebet com ufapok888 ufabetufacasino 369ufa55goldufa7777 ลิ้งเข้าระบบทางเข้า https ufa99k ibetauto com ufa99k ufabetufa2564"
-hero: "https://i.postimg.cc/PxbLXjR3/28.jpg"
+hero: "https://i.postimg.cc/WpDFvCcv/06.jpg"
 tags: ["go"]
 layout: "../../layouts/BlogPostLayout.astro"
 ---
@@ -21,7 +21,7 @@ layout: "../../layouts/BlogPostLayout.astro"
         "@id": "https://www.ourtask.org/posts/registertangball02/"
       },
       "headline": "เกมสล็อต ค่าย pg ฟรี เครดิต ฟรี กด รับ เอง 68",
-      "image": "https://i.postimg.cc/PxbLXjR3/28.jpg",  
+      "image": "https://i.postimg.cc/WpDFvCcv/06.jpg",  
       "InLanguage": "TH",    
       "description": "สมัคร ufa191ufa168 ทางเข้า มือถือufa6811ufa2499ufa houseufabet cafeufabetyufapok888 automebet com ufapok888 ufabetufacasino 369ufa55goldufa7777 ลิ้งเข้าระบบทางเข้า https ufa99k ibetauto com ufa99k ufabetufa2564",  
       "author": {
